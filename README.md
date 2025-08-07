@@ -66,7 +66,7 @@
 
 ## 🔧 How to Install
 
-1. Download the `.nupkg` file from the [Releases](https://github.com/AmrEzzatAbdo/SQL_Insights.Gemini.Activities-_AA/releases/).
+1. Download the `.jar` file from the [Releases](https://github.com/AmrEzzatAbdo/SQL_Insights.Gemini.Activities-_AA/releases/).
 2. Move to packages and upload the package.
 
 ---
